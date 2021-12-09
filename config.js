@@ -1,9 +1,6 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Chỉ yêu một người là Đào Lê Thanh Hiền nhaa <3,
     btnIntro: 'hihi',
     title: 'Đào Lê Thanh Hiền <3 Trương Công Tấn Nam',
     desc: 'Trương Thanh Vy ',
